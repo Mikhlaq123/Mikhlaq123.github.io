@@ -1,0 +1,17 @@
+[
+{
+"title":"IAF DSS",
+"image":"assets/project1.jpg",
+"description":"Military GIS DSS"
+},
+{
+"title":"Forest Fire Monitoring",
+"image":"assets/project2.jpg",
+"description":"Real-time fire monitoring"
+},
+{
+"title":"Sugarcane Mapping",
+"image":"assets/project3.jpg",
+"description":"Crop classification"
+}
+]
